@@ -80,30 +80,17 @@ Ensure you have Python 3 installed on your system.
 1. **Clone the Repository**
    Clone the game repository from GitHub:
    ```
-   git clone https://github.com/Viktor0317/wikiWho-Python-Game.git
-   cd wikiWho
+   https://github.com/Preethicoder/WikiWho.git
    ```
 
 2. **Install Required Modules**
-   Install the dependencies listed below using pip/pip3:
-  
+   Install the dependencies listed i requirements.txt
 
 3. **Run the Game**
    Start the game by executing the main script:
    ```
-   python3 wikiWho.py
+   python3 main.py
    ```
-
-## Dependencies
-
-- `wikipedia`: Used for fetching clues from Wikipedia.
-- `colorama`: For colored output in the terminal.
-
-### Sample Commands to Install
-```
-pip3 install wikipedia
-pip3 install colorama
-```
 
 Enjoy playing **wikiWho?** and have fun guessing!
 
